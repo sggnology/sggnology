@@ -1,8 +1,8 @@
 ### sggnology 😁
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sggnology&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sggnology&show_icons=true&theme=radical)
 
-<a href=""> <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=sggnology&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sggnology&theme=react&line_height=40&hide=css"/> </a>
 
 ## recent favorites 🌱
 - spring boot v3
