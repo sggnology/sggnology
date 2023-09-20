@@ -9,8 +9,7 @@
 - 🐳 docker 
 
 ## hobby ⚡
-- 🥕 마켓 쳐다보기
-- 헬스
+- 😄 헬스
 <!--
 **sggnology/sggnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
